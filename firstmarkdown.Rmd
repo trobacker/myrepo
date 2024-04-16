@@ -2,7 +2,8 @@
 title: "An R Markdown File Template"
 author: "Thomas Robacker"
 date: "2024-04-15"
-output: html_document
+#output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
